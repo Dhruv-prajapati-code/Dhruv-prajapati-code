@@ -2,7 +2,7 @@
 
 
 - 🧠 Computer Science student at SR Group of institutions.<br/>
-- 🌱 I’m currently learning DevOps, Which would be a main stream on which i wanna work.<br/>
+- 🌱 I’m currently learning DevOps, Which would be a main stream on which i want to work.<br/>
 - 💬 I have done some hands on project in web-dev.<br/>
 - ⚡ I'm also a UI/UX designer.<br/>
   
